@@ -1,0 +1,27 @@
+{
+  "name": "squid-custom-pages",
+  "version": "1.0.0",
+  "description": "This is a set of my custom error pages for Squid3",
+  "main": "build.js",
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "gulp-inject": "^4.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified, intentionally\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmblack/squid-custom-pages.git"
+  },
+  "author": "Dustyn Blackmore - dustyn@remexchange.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dmblack/squid-custom-pages/issues"
+  },
+  "homepage": "https://github.com/dmblack/squid-custom-pages#readme"
+}
