@@ -3,9 +3,6 @@
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>ERROR: The requested URL could not be retrieved</title>
-  <!-- inject:css -->
-  <!-- endinject -->
-
   <style type="text/css">
     <!-- %l body:lang(fa) {
       direction: rtl;
@@ -19,6 +16,8 @@
     }
     
     -->
+    <!-- inject:css -->
+    <!-- endinject -->
   </style>
 </head>
 
