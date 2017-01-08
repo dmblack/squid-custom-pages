@@ -11,8 +11,7 @@
       float: right;
     }
     
-    
-    :lang(he) {
+     :lang(he) {
       direction: rtl;
     }
     
@@ -34,6 +33,9 @@
     <p>Access control configuration prevents your request from being allowed at this time. Please contact your service provider
       if you feel this is incorrect.</p>
     <p>Your cache administrator is <a href="mailto:%w%W">%w</a>.</p>
+    <p>
+      <a href="www.remexchange.net">REM Exchange</a>
+    </p>
     <br>
   </div>
   <hr>
